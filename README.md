@@ -30,15 +30,17 @@ Integrated Cloudinary for resume and image uploads
 Designed responsive UI using Tailwind CSS
 Managed application state using Redux
 
-📂 Project Setup
-1️⃣ Clone Repository
-git clone https://github.com/alokrathod/Job-Portal.git
-cd Job-Portal
-2️⃣ Backend Setup
+
+⚙️ Project Setup
+git clone https://github.com/harshrastog/Job-Portal-main.git
+cd Job-Portal-main
+
+# Backend
 cd backend
 npm install
 npm run dev
-3️⃣ Frontend Setup
+
+# Frontend (open new terminal)
 cd frontend
 npm install
 npm run dev
